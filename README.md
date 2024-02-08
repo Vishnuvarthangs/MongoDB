@@ -36,11 +36,15 @@ git remote add origin https://github.com/Vishnuvarthangs/MongoDB.git
 
 --git push -u origin master
 
-git push -f origin masster
+git push -f origin master
 
 https://stackoverflow.com/questions/11696295/rejected-master-master-non-fast-forward
 
 https://stackoverflow.com/questions/2452226/master-branch-and-origin-master-have-diverged-how-to-undiverge-branches
+
+
+Create a pull request for 'master' on GitHub by visiting:
+    https://github.com/Vishnuvarthangs/MongoDB/pull/new/master
 
 ```
 
